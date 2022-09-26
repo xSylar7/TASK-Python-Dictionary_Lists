@@ -1,6 +1,6 @@
 
 
-## Setup
+## Steps
 
 1. Fork  [this repo](https://github.com/JoinCODED/TASK-Python-Dictionary_Lists).
 2. In your development folder, in the Foundations folder, clone the repo and open it in VSCode.
