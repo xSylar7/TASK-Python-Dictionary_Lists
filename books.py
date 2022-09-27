@@ -152,7 +152,7 @@ books = [
     {
         "id": 40,
         "color": "black",
-        "authors": [{"name": "Charlotte Brontë", "id": 11}],
+        "authors": [{"name": "Charlotte Bronte", "id": 11}],
         "title": "Jane Eyre",
         "available": True,
     },
